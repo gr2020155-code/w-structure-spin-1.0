@@ -1,4 +1,4 @@
-"""Arithmetic checks of "The Electron in the W-Structure" (sections 2, 3, 4, 8, 10, 11).
+"""Arithmetic checks of "The Electron in the W-Structure" (sections 1, 2, 3, 4, 8, 10, 11).
 Most checks here are algebra once the premises are typed in (R = ħ/(mc), S = ħ/2); they guard against
 arithmetic slips, they do not derive anything. Constants: CODATA 2018 (Tiesinga et al. 2021).
 Run: python3 verify_spin.py  (needs numpy, scipy)."""
@@ -113,5 +113,15 @@ alpha = 1 / 137.035999084; Eh = 27.211386245988; h_eV = 4.135667696e-15
 smear = 2 / 3 * alpha**2; darwin = alpha**2 / 2
 print(f" circulation smearing / Darwin = {smear/darwin:.4f}; if it replaced the Darwin term, extra 1S shift = {(smear-darwin)*Eh/h_eV/1e9:.0f} GHz")
 check("smearing on ħ/(mc) is 4/3 of the Darwin term", abs(smear / darwin - 4 / 3) < 1e-12)
+
+print("\n== 6. Mass of a composite: acts (energy) against closures (clock) ==")
+# total electron binding energy (fit of Lunney, Pearson, Thibault 2003), eV; kinetic energy of the shells = binding (virial, 1/r)
+Bel = lambda Z: 14.4381 * Z**2.39 + 1.55468e-6 * Z**5.35
+u_eV = 931.49410242e6
+fAl = Bel(13) / (26.98 * u_eV); fFe = Bel(26) / (55.845 * u_eV)
+print(f" electron shells: Al {Bel(13)/1e3:.1f} keV ({fAl:.2e} of the mass), Fe {Bel(26)/1e3:.1f} keV ({fFe:.2e})")
+print(f" if the source counted closures (clock, m/γ), active/passive mass of Fe and Al would differ by ~{fFe - fAl:.1e}")
+print(" lunar laser ranging: equal to 3.9e-14 (Singh et al. 2023)")
+check("counting closures for the source is excluded by lunar laser ranging", fFe - fAl > 1e3 * 3.9e-14)
 
 print("\nRESULT:", "all checks passed" if ok else "ERRORS FOUND")

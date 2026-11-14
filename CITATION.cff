@@ -4,8 +4,7 @@ title: "The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motio
 authors:
   - family-names: Danielyan
     given-names: Hrachya
-version: "1.0"
-doi: 10.5281/zenodo.24220735
+version: "1.1"
 license: CC-BY-4.0
 repository-code: "https://github.com/gr2020155-code/w-structure-spin-1.0"
 type: software

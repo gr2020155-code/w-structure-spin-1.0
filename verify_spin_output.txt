@@ -55,4 +55,10 @@ PASS reduced-mass ground state 13.598 eV
  circulation smearing / Darwin = 1.3333; if it replaced the Darwin term, extra 1S shift = 58 GHz
 PASS smearing on ħ/(mc) is 4/3 of the Darwin term
 
+== 6. Mass of a composite: acts (energy) against closures (clock) ==
+ electron shells: Al 6.6 keV (2.64e-07 of the mass), Fe 34.8 keV (6.70e-07)
+ if the source counted closures (clock, m/γ), active/passive mass of Fe and Al would differ by ~4.1e-07
+ lunar laser ranging: equal to 3.9e-14 (Singh et al. 2023)
+PASS counting closures for the source is excluded by lunar laser ranging
+
 RESULT: all checks passed
