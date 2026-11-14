@@ -1,6 +1,6 @@
 # The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motion
 
-**Author:** Hrachya Danielyan · **Version:** 1.0 · **License:** CC BY 4.0
+**Author:** Hrachya Danielyan · **Version:** 1.0 · **License:** CC BY 4.0 · **DOI:** [10.5281/zenodo.24220735](https://doi.org/10.5281/zenodo.24220735)
 
 In the W-Structure, space is points that never rest: every point exchanges places with a neighbour at every tick, and one exchange is one step and one tick. A particle is a stable pattern of exchanges that moves along its own closed path, the particle circulation. This work traces what the author's positions imply for the electron, and labels every statement as a position, definition, assumption, derivation, computation, candidate, measurement or open problem.
 
@@ -46,6 +46,8 @@ Most programs finish in under a minute. `isotropy_check.py` takes about 1.5 minu
 
 ## How to cite
 
-See `CITATION.cff`. A DOI will be added after the first release.
+H. Danielyan. The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motion. Version 1.0. Zenodo, 2026. https://doi.org/10.5281/zenodo.24220735
+
+See also `CITATION.cff`.
 
 Prepared with the assistance of AI models (Claude, ChatGPT, DeepSeek).
