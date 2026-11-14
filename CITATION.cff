@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motion"
+authors:
+  - family-names: Danielyan
+    given-names: Hrachya
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/gr2020155-code/w-structure-spin-1.0"
+type: software
+keywords:
+  - electron
+  - spin
+  - magnetic moment
+  - charge
+  - Lorentz transformations
+  - discrete space
+  - W-Structure

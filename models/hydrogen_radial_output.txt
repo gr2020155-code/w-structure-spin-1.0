@@ -1,0 +1,42 @@
+== 1. Levels: petal 0 → R → 0, ∮ p dr = 2πn ==
+ n=1: turning point R = 2.0000 a₀, E = -13.6057 eV, Rydberg −13.6057/n² = -13.6057 eV
+PASS n=1: E = −1/(2n²) (Bohr–Rydberg levels)
+ n=2: turning point R = 8.0000 a₀, E = -3.4014 eV, Rydberg −13.6057/n² = -3.4014 eV
+PASS n=2: E = −1/(2n²) (Bohr–Rydberg levels)
+ n=3: turning point R = 18.0000 a₀, E = -1.5117 eV, Rydberg −13.6057/n² = -1.5117 eV
+PASS n=3: E = −1/(2n²) (Bohr–Rydberg levels)
+ n=4: turning point R = 32.0000 a₀, E = -0.8504 eV, Rydberg −13.6057/n² = -0.8504 eV
+PASS n=4: E = −1/(2n²) (Bohr–Rydberg levels)
+PASS n=1: turning point at 2a₀ — where E = V for the 1s state
+
+== 2. If the closed path is a passage through the proton (−R → R → −R) instead of a petal ==
+ n=1: E = -54.423 eV — four times deeper than the data (−13.606 eV)
+PASS within this model, a passage through the proton counted as one cycle gives four times the energy
+
+== 3. Time averages for n=1 (R = 2) against 1s ==
+ ⟨r⟩    petal 1.5000   1s 1.5000
+ ⟨1/r⟩  petal 1.0000   1s 1.0000
+ ⟨r²⟩   petal 2.5000   1s 3.0000
+ ⟨p²⟩   petal 1.0000   1s 1.0000
+PASS ⟨r⟩ = 1.5 a₀ equals 1s
+PASS ⟨1/r⟩ and ⟨p²⟩ agree (energy)
+ ⟨r²⟩: 2.500 against 3 — a difference of 1/6 (testable through the diamagnetic susceptibility and polarizability of atomic H)
+
+== 4. Density at the proton (hyperfine splitting, 21 cm line) ==
+ mean density within the electron circulation radius R_e = α·a₀: 57.5 / a₀³; for 1s |ψ(0)|² = 0.318 / a₀³; ratio 181
+ mean density within the proton radius: 5.66e+05 / a₀³; for 1s |ψ(0)|² = 0.318 / a₀³; ratio 1.78e+06
+PASS a radial petal gives a density at the proton far above 1s — radial petals are excluded
+
+== 5. ⟨p⁴⟩ (relativistic correction of the 1s level) ==
+ excluding r < 0.0073 a₀: ⟨p⁴⟩ = 18.2; for 1s ⟨p⁴⟩ = 5 (confirmed by the fine structure and the 1S–2S line)
+ excluding r < 0.1000 a₀: ⟨p⁴⟩ = 3.1; for 1s ⟨p⁴⟩ = 5 (confirmed by the fine structure and the 1S–2S line)
+ as r → 0 the ⟨p⁴⟩ of a petal diverges: ∫ dr/(v r²) ~ ∫ r^(−3/2) dr
+
+== 6. The nucleus does not matter: binding energy = μα²c²/2, μ the reduced mass ==
+ hydrogen (proton)      13.5983 eV
+ deuterium              13.6020 eV
+ positronium (positron) 6.8028 eV
+ muonium (μ⁺)           13.5402 eV
+ measured: H 13.598 eV; Ps 6.80 eV — binding depends only on the charges and μ, not on the structure of the nucleus
+
+RESULT: all checks passed

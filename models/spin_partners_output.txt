@@ -1,0 +1,24 @@
+== 1. Exchange identity (on integer vectors) ==
+PASS moment of a pair of neighbours in an exchange = 0 for all pairs in a 7×7 window
+
+== 2. Illustration: medium + moving core ==
+electron, T=4: pairs per circulation 200; sum of point moments 0 (zero by the identity); pattern path 2·area = 2
+PASS electron, T=4: sum over points = 0 (identity)
+PASS electron, T=4: moment of the pattern path ≠ 0
+electron, T=8: pairs per circulation 400; sum of point moments 0 (zero by the identity); pattern path 2·area = 6
+PASS electron, T=8: sum over points = 0 (identity)
+PASS electron, T=8: moment of the pattern path ≠ 0
+electron, T=12: pairs per circulation 600; sum of point moments 0 (zero by the identity); pattern path 2·area = 10
+PASS electron, T=12: sum over points = 0 (identity)
+PASS electron, T=12: moment of the pattern path ≠ 0
+proton, T=4: pairs per circulation 200; sum of point moments 0 (zero by the identity); pattern path 2·area = 2
+PASS proton, T=4: sum over points = 0 (identity)
+PASS proton, T=4: moment of the pattern path ≠ 0
+proton, T=8: pairs per circulation 400; sum of point moments 0 (zero by the identity); pattern path 2·area = 6
+PASS proton, T=8: sum over points = 0 (identity)
+PASS proton, T=8: moment of the pattern path ≠ 0
+proton, T=12: pairs per circulation 600; sum of point moments 0 (zero by the identity); pattern path 2·area = 12
+PASS proton, T=12: sum over points = 0 (identity)
+PASS proton, T=12: moment of the pattern path ≠ 0
+
+RESULT: all checks passed

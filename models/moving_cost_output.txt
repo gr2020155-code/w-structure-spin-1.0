@@ -1,0 +1,8 @@
+electron: T=4: differences from the medium 4, per tick 1.00  (0 s)
+electron: T=8: differences from the medium 16, per tick 2.00  (0 s)
+electron: T=12: differences from the medium 20, per tick 1.67  (0 s)
+electron: T=24: differences from the medium 48, per tick 2.00  (0 s)
+proton: T=4: differences from the medium 12, per tick 3.00  (0 s)
+proton: T=8: differences from the medium 24, per tick 3.00  (0 s)
+proton: T=12: differences from the medium 20, per tick 1.67  (0 s)
+proton: T=24: differences from the medium 48, per tick 2.00  (0 s)

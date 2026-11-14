@@ -1,0 +1,366 @@
+EIGHT? H0 H1 V0 H0 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 H1 V0 H1 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 H1 V1 H0 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 H1 V1 H1 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V0 H0 H1 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V0 H0 V0 H1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V0 H0 V0 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V0 H0 V1 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V0 H1 H0 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V0 H1 V0 H1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V0 V1 H0 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V0 V1 H0 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V1 H0 H1 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V1 H0 V0 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V1 H0 V1 H1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V1 H0 V1 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V1 H1 H0 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V1 H1 V1 H1
+    64 points: period 10, area 0.0, repeated places 2, extent (3, 1)
+EIGHT? H0 V1 V0 H0 V0
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 V1 V0 H0 V1
+    64 points: period 10, area 0.0, repeated places 2, extent (1, 3)
+EIGHT? H0 H1 H0 H1 V0 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 H1 V0 H1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 H1 V1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 H1 V1 H1 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 V0 H0 H1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 H0 V0 H0 V0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 V0 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 H0 V0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 V1 H0 H1 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 H0 V1 H0 V1 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 H0 V1 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 H0 V1 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 V0 H0 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V0 H0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V0 H0 V0 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 V0 H1 H0 H1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V0 H1 H0 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V0 H1 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V0 H1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V0 H1 V0 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 V0 H1 V0 H0 V0
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 H1 V0 H1 V0 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 H1 V0 H1 V1 H0 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V0 H1 V1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 H1 V0 V1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 H1 V0 V1 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V0 V1 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V0 V1 H1 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 H1 V1 H0 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V1 H0 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V1 H0 V1 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 V1 H1 H0 H1 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V1 H1 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V1 H1 H0 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 H1 V1 H1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V1 H1 V0 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 H1 V1 H1 V0 H0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V1 H1 V1 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 H1 V1 H1 V1 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 H1 V1 H1 V1 H0 V1
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 H1 V1 V0 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 H1 V1 V0 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V1 V0 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 H1 V1 V0 H1 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 H0 H1 H0 H1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V0 H0 H1 H0 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V0 H0 H1 V0 H0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V0 H0 H1 V0 H1 V0
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 V0 H0 H1 V0 H1 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 H0 H1 V0 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 H0 H1 V1 H1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V0 H0 H1 V1 H1 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V0 H0 H1 V1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 H0 V0 H1 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V0 H0 V0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 V0 H0 V0 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V0 H0 V0 V1 H0 V1
+    64 points: period 14, area 0.0, repeated places 6, extent (1, 2)
+EIGHT? H0 V0 H0 V0 V1 H1 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V0 H0 V0 V1 V0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V0 H0 V1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 6, extent (1, 2)
+EIGHT? H0 V0 H0 V1 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 H0 V1 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V0 H0 V1 H1 V1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V0 H0 V1 V0 V1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V0 H1 H0 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V0 H1 H0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V0 H1 H0 V0 H0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V0 H1 V0 H1 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V0 H1 V0 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 V0 H1 V0 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V0 H1 V0 V1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V0 H1 V0 V1 H1 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 H1 V1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 H1 V1 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V0 H1 V1 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 H1 V1 H1 V1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V0 V1 H0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 V1 H0 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V0 V1 H0 H1 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 V1 H0 V0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V0 V1 H0 V1 H0 V0
+    64 points: period 14, area 0.0, repeated places 6, extent (1, 2)
+EIGHT? H0 V0 V1 H0 V1 H1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 V1 H0 V1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 V1 H0 V1 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V0 V1 H1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 V1 H1 V1 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V0 V1 H1 V1 H1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V0 V1 H1 V1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V0 V1 V0 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V0 V1 V0 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V0 V1 V0 V1 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V0 V1 V0 V1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V1 H0 H1 H0 H1 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V1 H0 H1 H0 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V1 H0 H1 V0 H1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V1 H0 H1 V0 H1 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V1 H0 H1 V0 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 H0 H1 V1 H0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V1 H0 H1 V1 H1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 H0 H1 V1 H1 V1
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 V1 H0 H1 V1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 H0 V0 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 6, extent (1, 2)
+EIGHT? H0 V1 H0 V0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V1 H0 V0 H1 V0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V1 H0 V0 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 H0 V0 V1 V0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V1 H0 V1 H1 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V1 H0 V1 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V1 H0 V1 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 V1 H0 V1 V0 H0 V0
+    64 points: period 14, area 0.0, repeated places 6, extent (1, 2)
+EIGHT? H0 V1 H0 V1 V0 H1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V1 H0 V1 V0 V1 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V1 H1 H0 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V1 H1 H0 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V1 H1 H0 V1 H0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (5, 1)
+EIGHT? H0 V1 H1 V0 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 H1 V0 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 H1 V0 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V1 H1 V0 H1 V0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V1 H1 V1 H1 H0 H1
+    64 points: period 14, area 0.0, repeated places 4, extent (5, 1)
+EIGHT? H0 V1 H1 V1 H1 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (2, 3)
+EIGHT? H0 V1 H1 V1 H1 H0 V1
+    64 points: period 14, area 0.0, repeated places 6, extent (2, 1)
+EIGHT? H0 V1 H1 V1 V0 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V1 H1 V1 V0 H1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 V0 H0 H1 V0 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 V0 H0 H1 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 V0 H0 H1 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (2, 3)
+EIGHT? H0 V1 V0 H0 V0 H0 V1
+    64 points: period 14, area 0.0, repeated places 6, extent (1, 2)
+EIGHT? H0 V1 V0 H0 V0 H1 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 V0 H0 V0 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 V0 H0 V0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V1 V0 H0 V1 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V1 V0 H1 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 V0 H1 V0 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V1 V0 H1 V0 H1 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (3, 2)
+EIGHT? H0 V1 V0 H1 V0 V1 H1
+    64 points: period 14, area 0.0, repeated places 2, extent (3, 2)
+EIGHT? H0 V1 V0 V1 H0 V0 V1
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V1 V0 V1 H0 V1 V0
+    64 points: period 14, area 0.0, repeated places 2, extent (1, 5)
+EIGHT? H0 V1 V0 V1 V0 H0 V0
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 V1 V0 V1 V0 H0 V1
+    64 points: period 14, area 0.0, repeated places 4, extent (1, 5)
+EIGHT? H0 H1 V0 H1 V0 V1 H0 V1
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 H1 V1 H1 V1 V0 H0 V0
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 V0 H0 H1 V1 H1 V1 V0
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 V0 H0 V0 H0 V1 H0 V1
+    64 points: period 8, area 0.0, repeated places 2, extent (1, 2)
+EIGHT? H0 V0 H0 V0 H1 V0 H1 V0
+    64 points: period 8, area 0.0, repeated places 2, extent (2, 1)
+EIGHT? H0 V0 H0 V0 V1 H1 V1 H1
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 V0 H0 V1 H0 V1 H0 V0
+    64 points: period 8, area 0.0, repeated places 2, extent (1, 2)
+EIGHT? H0 V0 H1 V0 H1 V0 H0 V0
+    64 points: period 8, area 0.0, repeated places 2, extent (2, 1)
+EIGHT? H0 V0 V1 H1 V1 H1 H0 V0
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 V1 H0 H1 V0 H1 V0 V1
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 V1 H0 V0 H0 V0 H0 V1
+    64 points: period 8, area 0.0, repeated places 2, extent (1, 2)
+EIGHT? H0 V1 H0 V1 H0 V0 H0 V0
+    64 points: period 8, area 0.0, repeated places 2, extent (1, 2)
+EIGHT? H0 V1 H0 V1 H1 V1 H1 V1
+    64 points: period 8, area 0.0, repeated places 2, extent (2, 1)
+EIGHT? H0 V1 H0 V1 V0 H1 V0 H1
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+EIGHT? H0 V1 H1 V1 H1 V1 H0 V1
+    64 points: period 8, area 0.0, repeated places 2, extent (2, 1)
+EIGHT? H0 V1 V0 H1 V0 H1 H0 V1
+    64 points: period 8, area 0.0, repeated places 1, extent (2, 2)
+---- sequences checked: 2460
+all points closed: 1130
+H0 V0 {('closed', 4, 1.0, 0, (1, 1)): 32, ('closed', 4, -1.0, 0, (1, 1)): 32}
+H0 V1 {('closed', 4, -1.0, 0, (1, 1)): 32, ('closed', 4, 1.0, 0, (1, 1)): 32}
+H0 H1 H0 V0 {('closed', 8, 3.0, 0, (3, 1)): 32, ('closed', 8, -3.0, 0, (3, 1)): 32}
+H0 H1 H0 V1 {('closed', 8, -3.0, 0, (3, 1)): 32, ('closed', 8, 3.0, 0, (3, 1)): 32}
+H0 H1 V0 H1 {('closed', 8, 3.0, 0, (3, 1)): 32, ('closed', 8, -3.0, 0, (3, 1)): 32}
+H0 H1 V1 H1 {('closed', 8, -3.0, 0, (3, 1)): 32, ('closed', 8, 3.0, 0, (3, 1)): 32}
+H0 V0 H0 H1 {('closed', 8, 3.0, 0, (3, 1)): 32, ('closed', 8, -3.0, 0, (3, 1)): 32}
+H0 V0 H0 V0 {('closed', 4, 1.0, 0, (1, 1)): 32, ('closed', 4, -1.0, 0, (1, 1)): 32}
+H0 V0 V1 V0 {('closed', 8, 3.0, 0, (1, 3)): 32, ('closed', 8, -3.0, 0, (1, 3)): 32}
+H0 V1 H0 H1 {('closed', 8, -3.0, 0, (3, 1)): 32, ('closed', 8, 3.0, 0, (3, 1)): 32}
+H0 V1 H0 V1 {('closed', 4, -1.0, 0, (1, 1)): 32, ('closed', 4, 1.0, 0, (1, 1)): 32}
+H0 V1 V0 V1 {('closed', 8, -3.0, 0, (1, 3)): 32, ('closed', 8, 3.0, 0, (1, 3)): 32}

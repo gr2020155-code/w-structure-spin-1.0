@@ -1,0 +1,24 @@
+points 2000, edges 14109, mean number of neighbours 14.1
+odd cycles present: True (the graph is not bipartite)
+
+== 1. Medium: two disjoint perfect partitions into pairs, eight M1 M1 M2 M2 ==
+PASS partition 1 is perfect (every point in a pair)
+PASS partition 2 is perfect and shares no edges with partition 1
+PASS after 4 ticks every point is back; each path is two loops (an eight)
+
+proton: chain angles A–P₁–P₂ 172°, P₁–P₂–C 133°
+
+== 2. Static cores of the electron and the proton next to each other, 12 ticks ==
+electron: angle A–O–B 152°, distance to the proton 3.7 steps
+PASS cores of the electron and the proton exist in the medium (4 s)
+PASS  every point in exactly one exchange at every tick
+ pairs differing from the medium: 5542 of 12000 in 12 ticks; the medium is fixed beyond radius 6
+
+== 3. Atom: the electron goes round the proton to the other side and back, 24 ticks ==
+places for the electron centre: 648; start x = +4.4, other side x = -4.3
+PASS a path round the proton exists (29 s)
+PASS  every point in exactly one exchange at every tick
+PASS  points of the electron core never coincided with points of the proton
+ x of the electron centre by tick: +4.4 +5.3 +4.5 +3.9 +5.3 +4.1 +2.7 +1.5 +0.1 -1.6 -2.9 -4.1 -4.3 -3.6 -2.9 -2.3 -1.3 -0.3 -0.4 +0.3 +0.2 +1.2 +2.7 +3.6
+
+RESULT: all checks passed

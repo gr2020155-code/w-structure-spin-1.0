@@ -1,0 +1,2 @@
+electron: found at radius 2; differences from the medium in 24 ticks: 96; points whose paths changed: 17
+proton: found at radius 3; differences from the medium in 24 ticks: 96; points whose paths changed: 16

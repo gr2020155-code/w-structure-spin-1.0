@@ -1,0 +1,9 @@
+H0 H1 V0 H1 V0 V1 H0 V1 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 H1 V1 H1 V1 V0 H0 V0 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 V0 H0 H1 V1 H1 V1 V0 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 V0 H0 V0 V1 H1 V1 H1 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 V0 V1 H1 V1 H1 H0 V0 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 V1 H0 H1 V0 H1 V0 V1 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 V1 H0 V1 V0 H1 V0 H1 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+H0 V1 V0 H1 V0 H1 H0 V1 | path period, loop areas, steps in loops: [(8, 1.0, 1.0, 4, 4)]
+found: 8

@@ -1,0 +1,22 @@
+
+== Variant A: free path (2 s) ==
+PASS variant A: a solution exists
+PASS  every point in exactly one exchange at every tick
+PASS  electron points never coincided with proton points
+ path of the electron centre (relative to P₁): [(4, 0, 0), (4, 1, 0), (4, 2, 0), (3, 2, 0), (3, 1, 0), (2, 1, 0), (1, 1, 0), (0, 1, 0), (-1, 1, 0), (-2, 1, 0), (-3, 1, 0), (-3, 0, 0), (-4, 0, 0), (-3, 0, 0), (-3, 1, 0), (-2, 1, 0), (-1, 1, 0), (0, 1, 0), (1, 1, 0), (2, 1, 0), (3, 1, 0), (4, 1, 0), (3, 1, 0), (4, 1, 0)]
+ moment of the path over the first half (0, 0, 16), over the whole cycle (0, 0, 2)
+ exchanges differing from the medium in 24 ticks: 15574
+
+== Variant B: the way back is the way out in reverse (2 s) ==
+PASS variant B: a solution exists
+PASS  every point in exactly one exchange at every tick
+PASS  electron points never coincided with proton points
+ path of the electron centre (relative to P₁): [(4, 0, 0), (4, 1, 0), (4, 0, 0), (4, 0, 1), (3, 0, 1), (2, 0, 1), (1, 0, 1), (0, 0, 1), (-1, 0, 1), (-2, 0, 1), (-3, 0, 1), (-4, 0, 1), (-4, 0, 0), (-4, 0, 1), (-3, 0, 1), (-2, 0, 1), (-1, 0, 1), (0, 0, 1), (1, 0, 1), (2, 0, 1), (3, 0, 1), (4, 0, 1), (4, 0, 0), (4, 1, 0)]
+ moment of the path over the first half (0, -16, 0), over the whole cycle (0, 0, 0)
+ exchanges differing from the medium in 24 ticks: 12020
+
+== Variant C: straight through the proton (3 s) ==
+ no solution
+PASS a path through the proton is impossible
+
+RESULT: all checks passed

@@ -1,0 +1,36 @@
+== 1. Electron and proton (loops carried by the particle) ==
+states 96, classes under rotations 4:
+  class 0: n·(c×v) = +1     P → class 2, C → class 2
+  class 1: n·c = -1         P → class 1, C → class 3
+  class 2: n·(c×v) = -1     P → class 0, C → class 0
+  class 3: n·c = +1         P → class 3, C → class 1
+charge-like functions on all states: 0
+PASS on all states no ±1 function is invariant under rotations and P and odd under C (the n ⟂ c classes are swapped by P and by C together)
+restricted to loops in the plane of circulation (n ∥ c): classes 2, charge-like functions 2
+PASS with n ∥ c there is exactly one charge-like sign (up to overall sign): n·c
+PASS with n ⟂ c there is no charge-like sign (the same form would be neutral)
+two-valued signs invariant under rotations and P (any behaviour under C): 3 up to overall sign
+  among them: n·c on the n ∥ c classes, and 'n ∥ c versus n ⟂ c' (even under C — not a charge)
+electron: under T the sign n·c changes
+proton: under T the sign n·c does not change
+
+== 2. Spin flip: the circulation axis reverses ==
+PASS if only c reverses, n·c changes sign (the charge would flip with the spin)
+PASS if the loops are carried by the circulation (n reverses with c), n·c is unchanged
+
+== 3. Neutrino: two loops in one point, in time order (n₁ first, then −n₁) ==
+states 144, classes 6: n·v = -1, n·(c×v) = +1, n·v = +1, n·c = -1, n·(c×v) = -1, n·c = +1
+PASS if the first loop lies in the plane of circulation (n₁ ∥ c), the loop order is a charge-like sign — the neutrino would be charged
+PASS if the loops lie across the direction of motion (n₁ ∥ v), there is no charge-like sign; the loop order is n₁·v = ±1, which P reverses (a helicity)
+
+== 4. Photon: the side turns around v, sense h ==
+PASS photon: two classes, helicity h = ±1; no circulation, so no sign of the form n·c
+
+== 5. A side fixed by a rule n = f(v) alone ==
+PASS no rule n = f(v) gives a rotation-invariant n·c (0 of 4096; trivially: a rotation by 180° about v sends c to −c and leaves f(v))
+
+Analytic argument for all rotations (SO(3)) and reflection: on states with n ∥ c write n = s·c, s = ±1.
+SO(3) acts transitively on pairs (v, c) of orthogonal unit vectors, so an invariant can depend only on s;
+P leaves the axial vectors n, c unchanged, so s is P-even; C sends s → −s. Hence s = n·c is the only charge-like sign there.
+
+RESULT: all checks passed

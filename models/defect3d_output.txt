@@ -1,0 +1,8 @@
+e (1D): radius 1 — no solution (0 s)
+e (1D): radius 2, rearrangements in 24 ticks 84, per tick 3.50 (0 s)
+μ (2D): radius 1 — no solution (0 s)
+μ (2D): radius 2, rearrangements in 24 ticks 60, per tick 2.50 (0 s)
+τ (3D): radius 1 — no solution (0 s)
+τ (3D): radius 2, rearrangements in 24 ticks 88, per tick 3.67 (0 s)
+p (1D): radius 1 — no solution (0 s)
+p (1D): radius 2, rearrangements in 24 ticks 84, per tick 3.50 (0 s)

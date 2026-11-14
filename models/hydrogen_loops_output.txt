@@ -1,0 +1,38 @@
+== 1. Levels from ∮ p·dl = 2πn for ellipses of any eccentricity ==
+ largest relative deviation of ∮p·dl from 2πn for a = n², e = 0 … 0.9: 4.8e-15
+PASS for every e the loop with a = n² has ∮p·dl = n·h; its energy −1/(2n²) = −13.606/n² eV (−13.598/n² eV with the reduced mass)
+
+== 2. Ensemble for n = 1: L² uniform on [0, 1] (assumption chosen to fit) ==
+ ⟨p²⟩ = 1.0039 (1s: 1)   ⟨p⁴⟩ = 5.0000 exactly (1s: 5; this is only the kinetic part of the fine structure)
+ ⟨r⟩ = 1.2500 (1s: 1.5)   ⟨r²⟩ = 1.7500 (1s: 3)   always r ≤ 2 (1s: 24 % beyond 2a₀)
+PASS ⟨p⁴⟩ = 5 exactly
+ momentum distribution: largest deviation from 1s 0.0133 at a peak of 1.071
+PASS the momentum distribution equals 1s (Abrines, Percival 1966)
+ fraction of loops coming closer than the electron circulation radius ħ/(m_e c) = α a₀: 1.454e-02 exactly (sample 1.45e-02)
+ fraction of loops coming closer than the proton radius: 3.175e-05 exactly (sample 4.25e-05)
+
+== 3. Electron density at the proton ==
+PASS normalization ∫ 4πr² √(2/r − 1) dr = 2π²
+PASS the sampled ensemble follows ρ ∝ √(2/r − 1)
+ mean density inside the proton radius: loops 21.579, 1s 0.3183; ratio 67.8
+ mean density inside the α a₀: loops 1.005, 1s 0.3148; ratio 3.2
+ ρ diverges as r^(−1/2) at the proton; the hyperfine (21 cm) splitting and the Darwin term are proportional to
+ the contact density, and both agree with the 1s value |ψ(0)|² = 1/π far better than a factor of 2
+ the density inside r_p comes only from loops whose perihelion q is inside r_p (fraction 3.2e-5)
+PASS closed form agrees with the density integral (all loops)
+ P17 enforced, the proton is its four-point core (≲ 3·10⁻²⁰ m): density inside r_p = 67.8 × 1s
+ P17 enforced, the proton is the region of its charge radius: density inside r_p = 0.0 × 1s
+PASS with P17 and the proton as its core the density inside r_p stays ≈ 68 × 1s; with the proton as its charge region it is 0; either way the contact density disagrees with the 21 cm line
+
+== 4. Dipole and orbital moment of successive loops ==
+ e = 0.3: one loop — dipole (-0.4500, +0.0000) (−3e/2 = -0.4500), L = +0.954; next loop turned by π about the axis ⟂ apse — (+0.4500, +0.0000), L = -0.954
+PASS e = 0.3: a single loop has dipole −(3/2)·a·e along the apse line
+PASS e = 0.3: with the turn rule the pair has zero dipole and zero orbital moment
+ e = 0.8: one loop — dipole (-1.2000, -0.0000) (−3e/2 = -1.2000), L = +0.600; next loop turned by π about the axis ⟂ apse — (+1.2000, -0.0000), L = -0.600
+PASS e = 0.8: a single loop has dipole −(3/2)·a·e along the apse line
+PASS e = 0.8: with the turn rule the pair has zero dipole and zero orbital moment
+ the turn is a rotation about the axis through the proton perpendicular to the apse line, in the plane of the loop;
+ at the perihelion the electron is at distance q = 1 − e from that axis and never passes through the proton.
+ A reflection through the proton (r → −r, p → −p) would cancel the dipole but keep L = r×p: it is not enough.
+
+RESULT: all checks passed

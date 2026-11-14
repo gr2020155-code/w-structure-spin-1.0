@@ -1,0 +1,58 @@
+== 1. Circulation at speed c, ω = c/R, E = ħω (algebra) ==
+R_e = ħ/(m_e c) = 3.861593e-13 m
+PASS angular momentum of the circulation m c R = ħ (not ħ/2: the open contradiction of section 4)
+PASS action per cycle ∮p dl = m c · 2πR = h
+PASS μ = e c R / 2 = μ_B
+ g with S = ħ/2: 2.000000;  g with S = m c R = ħ: 1.000000
+PASS g = 2 if the spin is ħ/2, g = 1 if it is the circulation moment ħ
+ for comparison, R = ħ/(2mc) = 1.931e-13 m would give μ = 0.50 μ_B; it contradicts P8 and the data μ_e ≈ μ_B
+
+== 1a. A circulation slower than c ==
+ v = 1.0 c: μ/μ_B = 1.000000
+ v = 0.99 c: μ/μ_B = 0.990000
+ v = 0.9 c: μ/μ_B = 0.900000
+ with R fixed by P8, μ/μ_B = v/c (algebra); data: μ_e/μ_B = 1.00116 > 1 — a slower circulation gives μ < μ_B, the wrong direction
+
+== 2. Internal clock in motion ==
+ across the motion the speed left for the circulation is √(c² − v²), so the period is γ (algebra)
+ v/c    γ         in plane      in plane+contraction
+ 0.1    1.005038  1.007571     1.005038
+PASS v=0.1: in plane with contraction = γ
+PASS v=0.1: in plane without contraction ≠ γ
+ 0.5    1.154701  1.245621     1.154701
+PASS v=0.5: in plane with contraction = γ
+PASS v=0.5: in plane without contraction ≠ γ
+ 0.9    2.294157  3.925924     2.294157
+PASS v=0.9: in plane with contraction = γ
+PASS v=0.9: in plane without contraction ≠ γ
+ 0.99   7.088812  32.901911     7.088812
+PASS v=0.99: in plane with contraction = γ
+PASS v=0.99: in plane without contraction ≠ γ
+
+== 2a. Exact formula and uniqueness of the contraction ==
+PASS v=0.5: formula γ·P(γ,1)/2π equals the integral without contraction
+PASS v=0.9: formula γ·P(γ,1)/2π equals the integral without contraction
+PASS the perimeter of an ellipse grows strictly with a semi-axis (unique among ellipses with unchanged transverse size)
+
+== 3. Field energy and the size of the core ==
+ Coulomb field energy outside 2e-20 m: 36.0 GeV = 7.0e+04 m_e c^2
+PASS field energy outside 2e-20 m is 36 GeV (e²/8πε₀R)
+ ħ/(m_e c) / (2e-20 m) = 1.9e+07: the circulation radius is at least this many times the core
+
+== 4. Limits on the step a ==
+LEP: ħc/Λ = 1.97e-20 m [estimate]; electron ≈ 3a  ⇒  a < 6.6e-21 m
+resolution time at √s = 209 GeV: ħ/E ≈ 3.1e-27 s; circulation period / this time ≈ 2.6e+06
+g−2 (quadratic estimate): R < 3.23e-19 m
+steps on the electron circulation: N_e = 2πR_e/a > 3.69e+08
+LHAASO [estimate]: corrections (a/ƛ)² → a < 2.7e-28 m; corrections (a/λ)² → a < 1.7e-27 m
+PASS N·a = h/(m c) — the Compton wavelength
+Sgr A*: (a/r)^2 < 1.1e-60
+3 M☉: (a/r)^2 < 2.2e-48
+
+== 5. Hydrogen ground state with reduced mass ==
+ E_1 = 13.6057 eV × μ/m_e = 13.5983 eV
+PASS reduced-mass ground state 13.598 eV
+ circulation smearing / Darwin = 1.3333; if it replaced the Darwin term, extra 1S shift = 58 GHz
+PASS smearing on ħ/(mc) is 4/3 of the Darwin term
+
+RESULT: all checks passed
